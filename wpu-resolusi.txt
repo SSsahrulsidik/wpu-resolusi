@@ -1,5 +1,4 @@
 - memabhak file
 - menghapus file
 - menambah
-- menghapus
-- 
+- membuat konten dasar HTML CSS JAVASCRIPT
