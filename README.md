@@ -1,2 +1,9 @@
 # wpu-resolusi
-Repository untuk menyimpan rencan WPU Kedepannya
+Latihan Repository
+
+- Membuat Branch :
+Compare & Full Request
+Open Full Request
+Kirim Pesan
+Create Full Request
+ 
