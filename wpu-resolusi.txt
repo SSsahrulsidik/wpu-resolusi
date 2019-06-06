@@ -1,2 +1,5 @@
 - memabhak file
 - menghapus file
+- menambah
+- menghapus
+- 
